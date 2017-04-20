@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\r0wi__000\.android\build-cache\f5b6a10bb2111def656b5acee863e3a7c314c908\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\r0wi__000\AndroidStudioProjects\CalcApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_82a6c7879f9ec61df91f9fd5027df5182f5572ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\r0wi__000\.android\build-cache\570b8177d92e796b7e7c739ebd2f3b53ee17af5b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\r0wi__000\AndroidStudioProjects\CalcApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_05c6d8382dd08ac3590bf494f6314aa7140a08cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\r0wi__000\.android\build-cache\b6a7ff0a487b80c860116aede09f01542c6677d1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f2f348b830f292429db987f74ba3e67c6752322">
+        <dex dex="C:\Users\r0wi__000\AndroidStudioProjects\CalcApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7f7450649df3853bb53bb2a4c913960dfe6a2f72\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\r0wi__000\.android\build-cache\e64ba0b907a454ee21ff5ea49ca31b7ca33e4fc8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="68956f5ba1517b7a3d513ba540548e257741cbae">
+        <dex dex="C:\Users\r0wi__000\AndroidStudioProjects\CalcApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_253326e15f3b2ecf9be174a9621b017d879e7b04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\r0wi__000\.android\build-cache\35be6e9c5f7ade4a2414a07f75c82dc864328f9e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\r0wi__000\AndroidStudioProjects\CalcApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9e00f094dc75a811d8ba511b4be51b9b00784668\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\r0wi__000\.android\build-cache\a741cb07be57a37cc09d0381424907e63b8b5fea\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\r0wi__000\AndroidStudioProjects\CalcApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_24d246a5f2f54e693b8a36b1c702c3cc88374432\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\r0wi__000\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\r0wi__000\AndroidStudioProjects\CalcApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_2a2e79e220c0177795c546b3dd3ed1dce55e0d21\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Program Files\Android\Android Studio1\gradle\m2repository\com\android\databinding\baseLibrary\2.3.0\baseLibrary-2.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cf0b6ab1d94f770655f81657b93fce2ba4cd331d">
+        <dex dex="C:\Users\r0wi__000\AndroidStudioProjects\CalcApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\baseLibrary-2.3.0_12f0778c28b180d7db70bb8aa9b9605f83a61c45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\r0wi__000\.android\build-cache\c3fa3ca2a31accee03f1292c109b1c2aa2135dbb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\r0wi__000\AndroidStudioProjects\CalcApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a204a515f4eea37000b76c0d32abd801f2425a4b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\r0wi__000\.android\build-cache\14b8d15b15d673c545ca310c189a7602490a8ebb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\r0wi__000\AndroidStudioProjects\CalcApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_2f7175dfc98dfaaab8be730c68f138f9fb4f5e82\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\r0wi__000\.android\build-cache\07741776b47536e2388fb07b75aa255de71b5397\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\r0wi__000\AndroidStudioProjects\CalcApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c0cbe64c20bd9eabd4158454644c5fa23a06c27a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\r0wi__000\AndroidStudioProjects\CalcApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="967e934ebe0215afc85f8809730101f266deecd8">
+        <dex dex="C:\Users\r0wi__000\AndroidStudioProjects\CalcApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_418dfcaa0221ffafff80c2cbba7d2da57b1d065c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\r0wi__000\.android\build-cache\aa13a2be767be2a592ca3aa91b95aea4a880fc57\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\r0wi__000\AndroidStudioProjects\CalcApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_cc983a92f5eb9e4834078ae523ecada7b180a281\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\r0wi__000\.android\build-cache\705592307ced254f004a74ddc5e9810ff6ba9a8c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\r0wi__000\AndroidStudioProjects\CalcApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1bb7296c5648655d827216ecb6ccf5ce17c022c5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\r0wi__000\.gradle\caches\modules-2\files-2.1\net.objecthunter\exp4j\0.4.4\31fc16920f12de42b8605fe33e6036786626fe11\exp4j-0.4.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="31fc16920f12de42b8605fe33e6036786626fe11">
+        <dex dex="C:\Users\r0wi__000\AndroidStudioProjects\CalcApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\exp4j-0.4.4_7f920f1b1ebdfd33e5b4b38dd70a23f031098008\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\r0wi__000\.android\build-cache\a4ee227360826268f2a8f785681f0444b92c6beb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\r0wi__000\AndroidStudioProjects\CalcApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_43b01bc2e7951c0382e47c40d6a6513c91c0524a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\r0wi__000\AndroidStudioProjects\CalcApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\Users\r0wi__000\AndroidStudioProjects\CalcApp\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_5bbf31af6a21b6f5786eec54907d2f3da9fe817d\classes.dex" />
+    </item>
+
+</items>
